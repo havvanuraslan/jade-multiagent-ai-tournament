@@ -1,0 +1,59 @@
+===================================================
+Intelligent Systems Programming (2025-2026)
+aiPilot.txt - AI Usage Portfolio (Phase 2 Delivery)
+===================================================
+
+1. STUDENT INFORMATION
+---------------------------------------------------
+Name: Havva Nur Aslan
+Lab ID: 3
+
+
+2. DESCRIPTION OF GENERATIVE AI USAGE
+---------------------------------------------------
+
+A. THEORY CLASSES
+   I utilized Generative AI tools as a "Conceptual Discussion Partner" to analyze the Multi-Agent Systems (MAS) and Machine Learning strategies taught in lectures more deeply.
+   * **Reinforcement Learning:** I summarized the theoretical differences between Q-Learning and SARSA, and the advantages of Off-policy methods in my own words, and then verified their accuracy with AI to reinforce the subject.
+   * **JADE Architecture:** Instead of memorizing the technical structure of the platform, I asked AI for real-life scenarios and analogies regarding the Agent Management System (AMS) and container structure to grasp the underlying logic.
+
+B. LAB PRACTICE (The Tournament Project)
+   I used artificial intelligence as a "Technical Assistant" to guide me through technical obstacles I encountered.
+
+   * **Phase 1: Infrastructure & Basics**
+     - **Configuration Support:** For the integration of standard structures like the JADE platform setup and Swing GUI into the project directory, I received guidance from AI on installation steps alongside the official documentation.
+     - **Troubleshooting:** Especially while resolving "Classpath" and library dependency issues in VS Code, I evaluated solution suggestions by asking AI about the error messages I received and stabilized my development environment.
+
+   * **Phase 2: Intelligent Agents (The Core Logic)**
+     - **Neural Network Algorithm:** In the Neural Network I developed using pure Java (Java 21) without external libraries, I used AI as a "Mathematical Verification Tool" to check if the complex mathematical formulas (derivative and gradient calculations) of Forward and Backpropagation algorithms were correctly translated into Java syntax.
+     - **Hybrid Strategy Design:** While designing the `RL_NN_Agent`, I investigated different architectural approaches on how to combine Q-Learning and Neural Networks most efficiently. I exchanged ideas with AI on the pros and cons of the "Confidence-based Switching" mechanism.
+     - **Optimization Decisions:** When I experienced performance bottlenecks in the early versions of my agent, I consulted AI to understand whether the issue was in the learning rate or the network structure. Based on the technical feedback I received, I implemented the decisions to widen the hidden layer (S*3) and switch to a memory-based structure (input windowing).
+
+C. GROUP C WORK
+   While conducting the literature review for our group project, I received summarization support from AI to quickly filter the main ideas of complex academic papers and understand their methodologies.
+
+D. EXAMS PREPARATION
+   To identify my knowledge gaps, I tested myself by having AI prepare practice questions of appropriate difficulty suitable for the course syllabus and had it explain concepts I did not understand.
+
+
+3. AI TOOLS USED
+---------------------------------------------------
+* **Google Gemini:** My technical consultant.
+    - I used it to reference new features and syntax of Java 21,
+    - And to understand the causes of JADE-specific errors (Exceptions).
+* **ChatGPT (OpenAI):** My theoretical guide.
+    - I used it to schematize the working logic of algorithms like Epsilon-Greedy,
+    - And to discuss ideas regarding hybrid architecture designs.
+
+
+4. PERSONAL EVALUATION OF UTILITY
+---------------------------------------------------
+* **Time Management:** I quickly overcame simple syntax errors that could occur during the coding of mathematical formulas with AI support, devoting my time to developing the strategic intelligence of the agent, which is the essential part.
+* **In-depth Learning:** AI did not just provide solutions; for instance, it enabled me to learn the subject without memorization by explaining the mathematical reason behind the weight update logic in the Neural Network.
+* **Code Quality:** I ensured my code was more readable and sustainable with "Best Practice" suggestions I received from AI regarding variable naming and establishing a modular structure.
+
+
+5. COMMENTS FOR FUTURE COURSES
+---------------------------------------------------
+* **Questioning Skills:** I experienced that the efficiency obtained from AI depends on the technical quality of the question asked. It would be beneficial to explain to students the concept of "using AI as a technical consultant."
+* **Verification Culture:** It should be emphasized that AI can sometimes offer erroneous or outdated suggestions, so every suggestion must be tested and verified by the student.
